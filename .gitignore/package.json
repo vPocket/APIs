@@ -1,0 +1,26 @@
+{
+  "name": "vpocket_apis",
+  "version": "1.0.0",
+  "description": "store api's of vpocket",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vPocket/APIs.git"
+  },
+  "author": "Ujjwal Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vPocket/APIs/issues"
+  },
+  "homepage": "https://github.com/vPocket/APIs#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12"
+  }
+}
+ 
